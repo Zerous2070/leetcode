@@ -125,7 +125,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 
 #### 简单难度
 
-- [0001.TwoSum](./problems/1.TwoSum.md) [x]
+- [x] [0001.TwoSum](./problems/1.TwoSum.md) 
 - [0020.Valid Parentheses](./problems/20.validParentheses.md)
 - [0021.MergeTwoSortedLists](./problems/21.MergeTwoSortedLists.md)
 - [0026.remove-duplicates-from-sorted-array](./problems/26.remove-duplicates-from-sorted-array.md)
