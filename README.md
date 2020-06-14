@@ -129,7 +129,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [x] [0020.Valid Parentheses](./problems/20.validParentheses.md)
 - [x] [0021.MergeTwoSortedLists](./problems/21.MergeTwoSortedLists.md)
 - [x] [0026.remove-duplicates-from-sorted-array](./problems/26.remove-duplicates-from-sorted-array.md)
-- [0053.maximum-sum-subarray](./problems/53.maximum-sum-subarray-cn.md)
+- [x] [0053.maximum-sum-subarray](./problems/53.maximum-sum-subarray-cn.md)
 - [0088.merge-sorted-array](./problems/88.merge-sorted-array.md)
 - [0101.symmetric-tree](./problems/101.symmetric-tree.md)🆕
 - [0104.maximum-depth-of-binary-tree](./problems/104.maximum-depth-of-binary-tree.md)
