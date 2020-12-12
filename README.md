@@ -137,7 +137,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [x] [0122.best-time-to-buy-and-sell-stock-ii](./problems/122.best-time-to-buy-and-sell-stock-ii.md)
 - [0125.valid-palindrome](./problems/125.valid-palindrome.md)
 - [x] [0136.single-number](./problems/136.single-number.md)
-- [0155.min-stack](./problems/155.min-stack.md) 🆕
+- [x] [0155.min-stack](./problems/155.min-stack.md) 🆕
 - [0167.two-sum-ii-input-array-is-sorted](./problems/167.two-sum-ii-input-array-is-sorted.md)
 - [0169.majority-element](./problems/169.majority-element.md)
 - [0172.factorial-trailing-zeroes](./problems/172.factorial-trailing-zeroes.md)
