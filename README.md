@@ -139,7 +139,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [x] [0136.single-number](./problems/136.single-number.md)
 - [x] [0155.min-stack](./problems/155.min-stack.md) 🆕
 - [x] [0167.two-sum-ii-input-array-is-sorted](./problems/167.two-sum-ii-input-array-is-sorted.md)
-- [0169.majority-element](./problems/169.majority-element.md)
+- [x] [0169.majority-element](./problems/169.majority-element.md)
 - [0172.factorial-trailing-zeroes](./problems/172.factorial-trailing-zeroes.md)
 - [0190.reverse-bits](./problems/190.reverse-bits.md)
 - [0191.number-of-1-bits](./problems/191.number-of-1-bits.md)
