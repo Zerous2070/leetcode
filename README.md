@@ -140,11 +140,11 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [x] [0155.min-stack](./problems/155.min-stack.md) 🆕
 - [x] [0167.two-sum-ii-input-array-is-sorted](./problems/167.two-sum-ii-input-array-is-sorted.md)
 - [x] [0169.majority-element](./problems/169.majority-element.md)
-- [x] 0172.factorial-trailing-zeroes](./problems/172.factorial-trailing-zeroes.md)
+- [x] [0172.factorial-trailing-zeroes](./problems/172.factorial-trailing-zeroes.md)
 - [0190.reverse-bits](./problems/190.reverse-bits.md)
 - [0191.number-of-1-bits](./problems/191.number-of-1-bits.md)
 - [0198.house-robber](./problems/198.house-robber.md)
-- [0203.remove-linked-list-elements](./problems/203.remove-linked-list-elements.md)
+- [x] [0203.remove-linked-list-elements](./problems/203.remove-linked-list-elements.md)
 - [0206.reverse-linked-list](./problems/206.reverse-linked-list.md)
 - [0219.contains-duplicate-ii](./problems/219.contains-duplicate-ii.md)
 - [0226.invert-binary-tree](./problems/226.invert-binary-tree.md)
