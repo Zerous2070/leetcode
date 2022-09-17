@@ -145,7 +145,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [0191.number-of-1-bits](./problems/191.number-of-1-bits.md)
 - [0198.house-robber](./problems/198.house-robber.md)
 - [x] [0203.remove-linked-list-elements](./problems/203.remove-linked-list-elements.md)
-- [0206.reverse-linked-list](./problems/206.reverse-linked-list.md)
+- [x] [0206.reverse-linked-list](./problems/206.reverse-linked-list.md)
 - [0219.contains-duplicate-ii](./problems/219.contains-duplicate-ii.md)
 - [0226.invert-binary-tree](./problems/226.invert-binary-tree.md)
 - [0232.implement-queue-using-stacks](./problems/232.implement-queue-using-stacks.md) 🆕
