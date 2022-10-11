@@ -149,7 +149,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [x] [0219.contains-duplicate-ii](./problems/219.contains-duplicate-ii.md)
 - [0226.invert-binary-tree](./problems/226.invert-binary-tree.md)
 - [x] [0232.implement-queue-using-stacks](./problems/232.implement-queue-using-stacks.md) 🆕
-- [0263.ugly-number](./problems/263.ugly-number.md)
+- [x] [0263.ugly-number](./problems/263.ugly-number.md)
 - [0283.move-zeroes](./problems/283.move-zeroes.md)
 - [0342.power-of-four](./problems/342.power-of-four.md)
 - [0349.intersection-of-two-arrays](./problems/349.intersection-of-two-arrays.md)
