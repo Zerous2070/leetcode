@@ -171,7 +171,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [x] [0015.3-sum](./problems/15.3-sum.md)
 - [x] [0017.Letter-Combinations-of-a-Phone-Number](./problems/17.Letter-Combinations-of-a-Phone-Number.md) 🆕
 - [x] [0019. Remove Nth Node From End of List](./problems/19.removeNthNodeFromEndofList.md)
-- [0022.GenerateParentheses](./problems/22.GenerateParentheses.md) 🆕
+- [x] [0022.GenerateParentheses](./problems/22.GenerateParentheses.md) 🆕
 - [0024. Swap Nodes In Pairs](./problems/24.swapNodesInPairs.md)
 - [0029.divide-two-integers](./problems/29.divide-two-integers.md)
 - [0031.next-permutation](./problems/31.next-permutation.md)
