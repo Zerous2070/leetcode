@@ -152,7 +152,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [x] [0263.ugly-number](./problems/263.ugly-number.md)
 - [x] [0283.move-zeroes](./problems/283.move-zeroes.md)
 - [0342.power-of-four](./problems/342.power-of-four.md)
-- [0349.intersection-of-two-arrays](./problems/349.intersection-of-two-arrays.md)
+- [x] [0349.intersection-of-two-arrays](./problems/349.intersection-of-two-arrays.md)
 - [0371.sum-of-two-integers](./problems/371.sum-of-two-integers.md)
 - [0437.path-sum-iii](./problems/437.path-sum-iii.md) 🆕
 - [0455.AssignCookies](./problems/455.AssignCookies.md) 🆕
