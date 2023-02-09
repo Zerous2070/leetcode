@@ -177,7 +177,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [0031.next-permutation](./problems/31.next-permutation.md)
 - [x] [0033.search-in-rotated-sorted-array](./problems/33.search-in-rotated-sorted-array.md)
 - [x] [0039.combination-sum](./problems/39.combination-sum.md)
-- [0040.combination-sum-ii](./problems/40.combination-sum-ii.md)
+- [x] [0040.combination-sum-ii](./problems/40.combination-sum-ii.md)
 - [0046.permutations](./problems/46.permutations.md)
 - [0047.permutations-ii](./problems/47.permutations-ii.md)
 - [0048.rotate-image](./problems/48.rotate-image.md)
