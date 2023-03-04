@@ -183,7 +183,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [x] [0048.rotate-image](./problems/48.rotate-image.md)
 - [x] [0049.group-anagrams](./problems/49.group-anagrams.md)
 - [0050.pow-x-n](./problems/50.pow-x-n.md) 🆕
-- [0055.jump-game](./problems/55.jump-game.md)
+- [x] [0055.jump-game](./problems/55.jump-game.md)
 - [0056.merge-intervals](./problems/56.merge-intervals.md)
 - [0060.permutation-sequence](./problems/60.permutation-sequence.md) 🆕
 - [0062.unique-paths](./problems/62.unique-paths.md) 🖊
