@@ -185,7 +185,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [0050.pow-x-n](./problems/50.pow-x-n.md) 🆕
 - [x] [0055.jump-game](./problems/55.jump-game.md)
 - [x] [0056.merge-intervals](./problems/56.merge-intervals.md)
-- [0060.permutation-sequence](./problems/60.permutation-sequence.md) 🆕
+- [x] [0060.permutation-sequence](./problems/60.permutation-sequence.md) 🆕
 - [0062.unique-paths](./problems/62.unique-paths.md) 🖊
 - [0073.set-matrix-zeroes](./problems/73.set-matrix-zeroes.md)
 - [0075.sort-colors](./problems/75.sort-colors.md)
