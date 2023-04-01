@@ -187,7 +187,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [x] [0056.merge-intervals](./problems/56.merge-intervals.md)
 - [x] [0060.permutation-sequence](./problems/60.permutation-sequence.md) 🆕
 - [x] [0062.unique-paths](./problems/62.unique-paths.md) 🖊
-- [0073.set-matrix-zeroes](./problems/73.set-matrix-zeroes.md)
+- [x] [0073.set-matrix-zeroes](./problems/73.set-matrix-zeroes.md)
 - [0075.sort-colors](./problems/75.sort-colors.md)
 - [0078.subsets](./problems/78.subsets.md)
 - [0079.word-search](./problems/79.word-search-en.md)
