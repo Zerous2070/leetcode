@@ -189,9 +189,9 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [x] [0062.unique-paths](./problems/62.unique-paths.md) 🖊
 - [x] [0073.set-matrix-zeroes](./problems/73.set-matrix-zeroes.md)
 - [x] [0075.sort-colors](./problems/75.sort-colors.md)
-- [0078.subsets](./problems/78.subsets.md)
+- [x] [0078.subsets](./problems/78.subsets.md)
 - [0079.word-search](./problems/79.word-search-en.md)
-- [0080.remove-duplicates-from-sorted-array-ii](./problems/80.remove-duplicates-from-sorted-array-ii.md) 🆕
+- [x] [0080.remove-duplicates-from-sorted-array-ii](./problems/80.remove-duplicates-from-sorted-array-ii.md) 🆕
 - [0086.partition-list](./problems/86.partition-list.md)
 - [0090.subsets-ii](./problems/90.subsets-ii.md)
 - [0091.decode-ways](./problems/91.decode-ways.md)
