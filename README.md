@@ -193,7 +193,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [0079.word-search](./problems/79.word-search-en.md)
 - [x] [0080.remove-duplicates-from-sorted-array-ii](./problems/80.remove-duplicates-from-sorted-array-ii.md) 🆕
 - [0086.partition-list](./problems/86.partition-list.md)
-- [0090.subsets-ii](./problems/90.subsets-ii.md)
+- [x] [0090.subsets-ii](./problems/90.subsets-ii.md)
 - [0091.decode-ways](./problems/91.decode-ways.md)
 - [0092.reverse-linked-list-ii](./problems/92.reverse-linked-list-ii.md) 🖊
 - [0094.binary-tree-inorder-traversal](./problems/94.binary-tree-inorder-traversal.md)
